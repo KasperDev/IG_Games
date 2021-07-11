@@ -1,0 +1,1371 @@
+﻿Log file open, 07/11/21 13:51:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172759
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin DarkerNodes
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.11-10.51.39:229][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.11-10.51.39:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:230][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.11-10.51.39:235][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.11-10.51.39:235][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.11-10.51.39:235][  0]LogHAL: Display: Platform has ~ 32 GB [34222678016 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.11-10.51.39:235][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.11-10.51.39:235][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:235][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Scalability.ini]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.11-10.51.39:236][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.11-10.51.39:237][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.11-10.51.39:237][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.11-10.51.39:237][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.11-10.51.39:237][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Engine.ini]
+[2021.07.11-10.51.39:237][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Config/Windows/Editor.ini]
+[2021.07.11-10.51.39:237][  0]LogInit: Computer: DESKTOP-VDMA5LP
+[2021.07.11-10.51.39:237][  0]LogInit: User: KASPER
+[2021.07.11-10.51.39:237][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.07.11-10.51.39:237][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.11-10.51.39:237][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.11-10.51.39:237][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.11-10.51.39:237][  0]LogMemory: Process Physical Memory: 143.01 MB used, 143.02 MB peak
+[2021.07.11-10.51.39:237][  0]LogMemory: Process Virtual Memory: 130.83 MB used, 130.83 MB peak
+[2021.07.11-10.51.39:237][  0]LogMemory: Physical Memory: 8351.25 MB used,  24286.04 MB free, 32637.29 MB total
+[2021.07.11-10.51.39:237][  0]LogMemory: Virtual Memory: 134193584.00 MB used,  24142.24 MB free, 134217728.00 MB total
+[2021.07.11-10.51.39:240][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.11-10.51.39:265][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.11-10.51.39:266][  0]LogInit: Using OS detected language (ru-RU).
+[2021.07.11-10.51.39:266][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.07.11-10.51.39:268][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.07.11-10.51.39:269][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.11-10.51.39:274][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.11-10.51.39:282][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.11-10.51.39:282][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.11-10.51.39:373][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.11-10.51.39:373][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.11-10.51.39:373][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.11-10.51.39:373][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.11-10.51.39:442][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.07.11-10.51.39:442][  0]LogD3D11RHI:       12143/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.11-10.51.39:444][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.11-10.51.39:444][  0]LogD3D11RHI:       0/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.11-10.51.39:444][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.11-10.51.39:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.11-10.51.39:448][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.11-10.51.39:448][  0]LogWindows: EnumDisplayDevices:
+[2021.07.11-10.51.39:448][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.07.11-10.51.39:448][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.07.11-10.51.39:449][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.07.11-10.51.39:449][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.07.11-10.51.39:449][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.11-10.51.39:449][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.07.11-10.51.39:449][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.11-10.51.39:449][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.11-10.51.39:449][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.07.11-10.51.39:505][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.11-10.51.39:505][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.11-10.51.39:505][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.11-10.51.39:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.11-10.51.39:525][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.11-10.51.39:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.11-10.51.39:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.11-10.51.39:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.11-10.51.39:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.11-10.51.39:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.11-10.51.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.11-10.51.39:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.11-10.51.39:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.11-10.51.39:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.11-10.51.39:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.11-10.51.39:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.11-10.51.39:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.11-10.51.39:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.11-10.51.39:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.11-10.51.39:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.11-10.51.39:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.11-10.51.39:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.11-10.51.39:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.11-10.51.39:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.11-10.51.39:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.11-10.51.39:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.11-10.51.39:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.11-10.51.39:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.11-10.51.39:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.11-10.51.39:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.11-10.51.39:923][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.11-10.51.39:923][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Intermediate/Shaders/WorkingDirectory/1440/).
+[2021.07.11-10.51.39:923][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KASPER/AppData/Local/Temp/UnrealShaderWorkingDir/07C1D738480A6C2726B31BBF2EBCB84E/'.
+[2021.07.11-10.51.39:923][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.11-10.51.39:923][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.11-10.51.40:522][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.11-10.51.40:560][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/KASPER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.11-10.51.40:560][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KASPER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.11-10.51.40:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.11-10.51.40:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.11-10.51.40:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.11-10.51.40:561][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.11-10.51.40:570][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.11-10.51.40:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.11-10.51.40:570][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.11-10.51.40:577][  0]LogDerivedDataCache: Speed tests for C:/Users/KASPER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.11-10.51.40:577][  0]LogDerivedDataCache: Display: Performance to C:/Users/KASPER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=374.68MBs, RandomWriteSpeed=265.87MBs. Assigned SpeedClass 'Local'
+[2021.07.11-10.51.40:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KASPER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.11-10.51.40:577][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.11-10.51.40:577][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.11-10.51.40:617][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.11-10.51.40:617][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.11-10.51.40:633][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.07.11-10.51.40:807][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.11-10.51.40:807][  0]LogInit: Active device profile: [00000203FB755D00][00000203F381E680 49] Windows
+[2021.07.11-10.51.40:807][  0]LogInit: Profiles: [00000203FB755D00][00000203F381E680 49] Windows, [00000203FB75E500][00000203FAD00800 49] WindowsNoEditor, [00000203FB754D00][00000203FAD04980 49] WindowsServer, [00000203FB75F100][00000203FAD08B00 49] WindowsClient, [00000203FB756A00][00000203FAD0CC80 49] IOS, [00000203FB75FF00][00000203FBF10E00 49] iPadAir, [00000203FB756D00][00000203FBF14F80 49] iPadAir2, [00000203FB70F000][00000203FBF1D240 49] IPadPro, [00000203FB70F100][00000203FBF19280 49] iPadAir3, [00000203FB755500][00000203FBF21400 49] iPadAir4, [00000203FB70E800][00000203FBF25580 49] iPadMini2, [00000203FB757200][00000203FACFD6C0 49] iPadMini3, [00000203FB70D600][00000203FBF29800 49] iPadMini4, [00000203FB755200][00000203FBF2D940 49] iPadMini5, [00000203FB736900][00000203FBF39C00 49] iPhone6, [00000203FB736A00][00000203FBF35C40 49] iPodTouch6, [00000203FB70F600][00000203FBF40240 49] iPhone7, [00000203FB70F700][00000203FBF3C280 49] iPodTouch7, [00000203FB736700][00000203FBF56400 49] iPhone5S, [00000203FB70C100][00000203FBF66580 49] iPhone6Plus, [00000203FB735400][00000203FBF6A700 49] iPhone6S, [00000203FB70C700][00000203FBF86880 49] iPhone6SPlus, [00000203FB734200][00000203FBF96A00 49] iPhone7Plus, [00000203FB70E600][00000203FBFA6B80 49] iPhoneSE, [00000203FB737000][00000203FBFAED00 49] iPhone8, [00000203FB70FF00][00000203FBFD2E80 49] iPhone8Plus, [00000203FB735C00][00000203FBFD7000 49] iPhoneX, [00000203FB70E200][00000203FBFDB180 49] iPhoneXS, [00000203FB734300][00000203FBFDF300 49] iPhoneXSMax, [00000203FB70FC00][00000203FBFEF480 49] iPhoneXR, [00000203FB737E00][00000203FBFF3600 49] iPhone11, [00000203FB70E000][00000203FBF31740 49] iPhone11Pro, [00000203FB737500][00000203FBFFB880 49] iPhone11ProMax, [00000203FB70EC00][00000203FBFFF9C0 49] iPhoneSE2, [00000203FB736C00][00000203FC007B40 49] iPhone12Mini, [00000203FB70CB00][00000203FC00BCC0 49] iPhone12, [00000203FB736200][00000203FC01A180 49] iPhone12Pro, [00000203FB70F400][00000203FC01E300 49] iPhone12ProMax, [00000203FB737100][00000203FC022480 49] iPadPro105, [00000203FB70FD00][00000203FC026600 49] iPadPro129, [00000203FB75D700][00000203FC02A780 49] iPadPro97, [00000203FB737400][00000203FC02E900 49] iPadPro2_129, [00000203FB75DF00][00000203FC032A80 49] iPad5, [00000203FB736100][00000203FC036C00 49] iPad6, [00000203FB75D800][00000203FC03AD80 49] iPad7, [00000203FB736600][00000203FC03EF00 49] iPad8, [00000203FB75C100][00000203FC043080 49] iPadPro11, [00000203FB735D00][00000203FC067200 49] iPadPro2_11, [00000203FB75E000][00000203FC06B380 49] iPadPro3_129, [00000203FB736D00][00000203FC06F500 49] iPadPro4_129, [00000203FB75E300][00000203FC073680 49] AppleTV, [00000203FB70D700][00000203FC0037C0 49] AppleTV4K, [00000203FB75FA00][00000203FC077900 49] TVOS, [00000203FB70D900][00000203FC07BA40 49] Mac, [00000203FB75ED00][00000203FC07FB80 49] MacClient, [00000203FB70DA00][00000203FC087D00 49] MacNoEditor, [00000203FB75C200][00000203FC08A1C0 49] MacServer, [00000203FB70E700][00000203FC08E340 49] Linux, [00000203FB75C800][00000203FC0924C0 49] LinuxAArch64, [00000203FB70CC00][00000203FC096640 49] LinuxNoEditor, [00000203FB75DD00][00000203FC09A7C0 49] LinuxAArch64NoEditor, [00000203FB70C800][00000203FC09E940 49] LinuxClient, [00000203FB75EF00][00000203FC0A2AC0 49] LinuxAArch64Client, [00000203FB70CF00][00000203FC0A6C40 49] LinuxServer, [00000203FB75CF00][00000203FC0AADC0 49] LinuxAArch64Server, [00000203FB70EA00][00000203FC0AEF40 49] Android, [00000203FB75D900][00000203FC0B30C0 49] Android_Low, [00000203FB70FA00][00000203FC0F3240 49] Android_Mid, [00000203FB75F900][00000203FC0F73C0 49] Android_High, [00000203FB70E400][00000203FC0FB540 49] Android_Default, [00000203FB75CA00][00000203FC0FF6C0 49] Android_Adreno4xx, [00000203FB70CA00][00000203FC083800 49] Android_Adreno5xx_Low, [00000203FB75FC00][00000203FC103940 49] Android_Adreno5xx, [00000203FB70DD00][00000203FC107A80 49] Android_Adreno6xx, [00000203FB75E800][00000203FC10BBC0 49] Android_Adreno6xx_Vulkan, [00000203FB70CD00][00000203FC113D40 49] Android_Mali_T6xx, [00000203FB75C700][00000203FC116200 49] Android_Mali_T7xx, [00000203FB70D000][00000203FC11A380 49] Android_Mali_T8xx, [00000203FB75D100][00000203FC130500 49] Android_Mali_G71, [00000203FB70DE00][00000203FC134680 49] Android_Mali_G72, [00000203FB75FE00][00000203FC138800 49] Android_Mali_G72_Vulkan, [00000203FB70D200][00000203FC13C980 49] Android_Mali_G76, [00000203FB75EE00][00000203FC140B00 49] Android_Mali_G76_Vulkan, [00000203FB70D800][00000203FC144C80 49] Android_Mali_G77, [00000203FB75D400][00000203FC148E00 49] Android_Mali_G77_Vulkan, [00000203FB70FB00][00000203FC14CF80 49] Android_Vulkan_SM5, [00000203FB75EB00][00000203FC151100 49] Android_PowerVR_G6xxx, [00000203FB70F900][00000203FC155280 49] Android_PowerVR_GT7xxx, [00000203FB75E600][00000203FC159400 49] Android_PowerVR_GE8xxx, [00000203FB70D100][00000203FC15D580 49] Android_PowerVR_GM9xxx, [00000203FB75F600][00000203FC161700 49] Android_PowerVR_GM9xxx_Vulkan, [00000203FB70E300][00000203FC165880 49] Android_TegraK1, [00000203FB75E900][00000203FC10F9C0 49] Android_Unknown_Vulkan, [00000203FB70F800][00000203FC169B00 49] Lumin, [00000203FB757000][00000203FC16DC40 49] Lumin_Desktop, [00000203FB734800][00000203FC174100 49] HoloLens, 
+[2021.07.11-10.51.40:886][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.11-10.51.40:886][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.11-10.51.40:886][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.11-10.51.40:886][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.11-10.51.40:886][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.11-10.51.40:896][  0]LogNetVersion: MyProject01 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2081447594)
+[2021.07.11-10.51.41:178][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.11-10.51.41:203][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.024675 seconds
+[2021.07.11-10.51.41:207][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.11-10.51.41:207][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.11-10.51.41:207][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.11-10.51.41:448][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.11-10.51.41:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.11-10.51.41:638][  0]SourceControl: Source control is disabled
+[2021.07.11-10.51.41:638][  0]SourceControl: Source control is disabled
+[2021.07.11-10.51.41:640][  0]SourceControl: Source control is disabled
+[2021.07.11-10.51.41:642][  0]LogSourceControl: Plastic SCM plugin '1.4.6'
+[2021.07.11-10.51.41:642][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.07.11-10.51.41:642][  0]LogWindows: Warning: URL: cm shell
+[2021.07.11-10.51.41:642][  0]LogSourceControl: Warning: Failed to launch 'cm shell'
+[2021.07.11-10.51.41:644][  0]LogSourceControl: Plastic SCM plugin '1.4.6'
+[2021.07.11-10.51.41:645][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.07.11-10.51.41:645][  0]LogWindows: Warning: URL: cm shell
+[2021.07.11-10.51.41:645][  0]LogSourceControl: Warning: Failed to launch 'cm shell'
+[2021.07.11-10.51.41:647][  0]LogUProjectInfo: Found projects:
+[2021.07.11-10.51.41:650][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.07.11-10.51.41:650][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.07.11-10.51.41:765][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.11-10.51.41:775][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.11-10.51.41:775][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.11-10.51.41:809][  0]LogCollectionManager: Loaded 0 collections in 0.000953 seconds
+[2021.07.11-10.51.41:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Collections/' took 0.00s
+[2021.07.11-10.51.41:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Developers/KASPER/Collections/' took 0.00s
+[2021.07.11-10.51.41:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Collections/' took 0.00s
+[2021.07.11-10.51.41:823][  0]LogOcInput: OculusInput pre-init called
+[2021.07.11-10.51.41:831][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.11-10.51.41:831][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.11-10.51.41:866][  0]LogEngine: Initializing Engine...
+[2021.07.11-10.51.41:867][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.11-10.51.41:867][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.11-10.51.41:868][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.11-10.51.41:943][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.11-10.51.41:947][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.11-10.51.41:954][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.11-10.51.41:957][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.11-10.51.41:957][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.11-10.51.41:957][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.11-10.51.41:957][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.11-10.51.41:957][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.11-10.51.41:970][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-10.51.41:970][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-10.51.41:992][  0]LogAudioMixer: Display: Using Audio Device Динамики (2- SADES Locust Plus)
+[2021.07.11-10.51.41:994][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.11-10.51.41:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.11-10.51.41:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.11-10.51.41:996][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.11-10.51.41:996][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.11-10.51.41:996][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.11-10.51.41:996][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.11-10.51.41:996][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.11-10.51.41:996][  0]LogInit: FAudioDevice initialized.
+[2021.07.11-10.51.41:996][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.11-10.51.41:996][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.11-10.51.42:057][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/KASPER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.11-10.51.42:057][  0]LogInit: Texture streaming: Enabled
+[2021.07.11-10.51.42:066][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.11-10.51.42:068][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.11-10.51.42:068][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9204E6D3-49BD-3A5A-F7BA-809C573A1BC2}
+[2021.07.11-10.51.42:068][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.11-10.51.42:069][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.11-10.51.42:080][  0]LogInit: Transaction tracking system initialized
+[2021.07.11-10.51.42:094][  0]BlueprintLog: New page: Editor Load
+[2021.07.11-10.51.42:138][  0]LocalizationService: Localization service is disabled
+[2021.07.11-10.51.42:153][  0]TimingProfiler: Initialize
+[2021.07.11-10.51.42:153][  0]TimingProfiler: OnSessionChanged
+[2021.07.11-10.51.42:153][  0]LoadingProfiler: Initialize
+[2021.07.11-10.51.42:153][  0]LoadingProfiler: OnSessionChanged
+[2021.07.11-10.51.42:153][  0]NetworkingProfiler: Initialize
+[2021.07.11-10.51.42:153][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.11-10.51.42:153][  0]MemoryProfiler: Initialize
+[2021.07.11-10.51.42:153][  0]MemoryProfiler: OnSessionChanged
+[2021.07.11-10.51.42:187][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.07.11-10.51.42:187][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.07.11-10.51.42:238][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.11-10.51.42:238][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.11-10.51.42:335][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KASPER/Documents/Unreal Projects/MyProject01/Content/' took 0.01s
+[2021.07.11-10.51.42:440][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.11-10.51.42:442][  0]LogSourceControl: Plastic SCM plugin '1.4.6'
+[2021.07.11-10.51.42:443][  0]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.07.11-10.51.42:443][  0]LogWindows: Warning: URL: cm shell
+[2021.07.11-10.51.42:443][  0]LogSourceControl: Warning: Failed to launch 'cm shell'
+[2021.07.11-10.51.42:443][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.818
+[2021.07.11-10.51.42:443][  0]Cmd: MAP LOAD FILE="../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.11-10.51.42:443][  0]LightingResults: New page: Lighting Build
+[2021.07.11-10.51.42:444][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.51.42:444][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.51.42:444][  0]MapCheck: New page: Map Check
+[2021.07.11-10.51.42:444][  0]LightingResults: New page: Lighting Build
+[2021.07.11-10.51.42:449][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.11-10.51.43:043][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.07.11-10.51.43:044][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.11-10.51.43:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.11-10.51.43:061][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.11-10.51.43:061][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.11-10.51.43:061][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2021.07.11-10.51.43:061][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.618
+[2021.07.11-10.51.43:063][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.437
+[2021.07.11-10.51.43:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.43:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.43:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.43:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.43:195][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3602 classes and 862 folders.
+[2021.07.11-10.51.43:197][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.11-10.51.43:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.11-10.51.43:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.11-10.51.43:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.11-10.51.43:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.11-10.51.43:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.11-10.51.43:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.11-10.51.43:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.11-10.51.43:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.11-10.51.43:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.11-10.51.43:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.11-10.51.43:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.11-10.51.43:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.11-10.51.43:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.11-10.51.43:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.11-10.51.43:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.11-10.51.43:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.11-10.51.43:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.11-10.51.43:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.11-10.51.43:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.11-10.51.43:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.11-10.51.43:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.11-10.51.43:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.11-10.51.43:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.11-10.51.43:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.11-10.51.43:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.11-10.51.43:207][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.11-10.51.43:207][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.11-10.51.43:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.11-10.51.43:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.07.11-10.51.43:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.11-10.51.43:233][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.11-10.51.43:272][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.11-10.51.43:274][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.11-10.51.43:276][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.11-10.51.43:339][  0]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 1 (Frame:1).
+[2021.07.11-10.51.43:425][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.11-10.51.43:425][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.07.11-10.51.43:425][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.07.11-10.51.43:425][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.07.11-10.51.43:425][  0]LogLoad: (Engine Initialization) Total time: 4.80 seconds
+[2021.07.11-10.51.43:425][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.11-10.51.43:425][  0]LogInit: First time updating LLM stats...
+[2021.07.11-10.51.43:459][  0]LogAssetRegistry: Asset discovery search completed in 2.8284 seconds
+[2021.07.11-10.51.43:461][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.07.11-10.51.43:461][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.11-10.51.43:542][  4]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.11-10.51.44:439][100]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.11-10.51.44:759][110]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.11-10.51.44:764][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.11-10.51.44:764][110]PIE: New page: PIE session: ThirdPersonExampleMap (11 июл. 2021 г., 16:51:44)
+[2021.07.11-10.51.44:765][110]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.11-10.51.44:767][110]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.11-10.51.44:767][110]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.11-10.51.44:778][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011005s)
+[2021.07.11-10.51.44:780][110]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.11-10.51.44:780][110]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2021.07.11-10.51.44:780][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013355s)
+[2021.07.11-10.51.44:785][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.11-10.51.44:785][110]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.11-10.51.44:785][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.11-10.51.44:785][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.11-10.51.44:785][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.11-10.51.44:786][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.11-10.51.44:786][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.11-10.51.44:786][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.11-10.51.44:786][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.11-10.51.44:786][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.11-10.51.44:786][110]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.11-10.51.44:786][110]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.11-10.51.44:790][110]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-10.51.44:790][110]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Using Audio Device Динамики (2- SADES Locust Plus)
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.11-10.51.44:804][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.11-10.51.44:804][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.11-10.51.44:814][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.11-10.51.44:814][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.11-10.51.44:814][110]LogInit: FAudioDevice initialized.
+[2021.07.11-10.51.44:814][110]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.07.11-10.51.44:824][110]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.07.11-10.51.44:824][110]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.07.11-10.51.44:824][110]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2021.07.11-10.51.44:824][110]LogLoad: Game class is 'GameModeBase'
+[2021.07.11-10.51.44:826][110]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.11-13.51.44
+[2021.07.11-10.51.44:826][110]LogWorld: Bringing up level for play took: 0.001745
+[2021.07.11-10.51.44:827][110]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.11-10.51.44:829][110]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.07.11-10.51.44:835][110]PIE: Server logged in
+[2021.07.11-10.51.44:836][110]PIE: Play in editor total start time 0,072 seconds.
+[2021.07.11-10.51.45:914][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.45:947][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.45:980][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:014][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:047][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:080][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:113][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:147][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:179][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:213][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:246][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:280][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:313][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:346][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:379][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:413][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:447][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:480][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:513][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:546][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:579][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:613][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:647][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:680][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:713][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:747][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:780][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:813][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:846][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:880][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:913][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:946][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.46:979][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:013][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:046][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:079][366]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:113][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:147][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:180][378]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:213][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:246][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:279][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:313][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:346][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:380][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:413][406]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:446][410]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:479][414]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:514][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:546][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:580][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:614][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:646][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:680][438]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:713][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:747][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:780][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:813][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:846][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:879][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:913][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:947][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.47:979][474]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.48:013][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.48:047][482]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.48:080][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.48:147][494]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.51.50:081][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.50:081][717]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.11-10.51.50:081][717]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.51.50:081][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.51.50:088][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.11-10.51.50:090][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.51.50:094][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.11-10.51.50:094][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.11-10.51.50:095][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.11-10.51.50:106][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.51.50:108][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.07.11-10.51.50:143][719]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.11-10.51.52:465][978]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.07.11-10.52.01:850][856]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.11-10.52.02:922][856]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-10.52.05:369][121]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.11-10.52.05:374][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.11-10.52.05:374][121]PIE: New page: PIE session: ThirdPersonExampleMap (11 июл. 2021 г., 16:52:05)
+[2021.07.11-10.52.05:400][121]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.11-10.52.05:408][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008130s)
+[2021.07.11-10.52.05:409][121]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.11-10.52.05:410][121]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2021.07.11-10.52.05:410][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010055s)
+[2021.07.11-10.52.05:426][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.07.11-10.52.05:427][121]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.11-10.52.05:427][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.11-10.52.05:427][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.11-10.52.05:428][121]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.11-10.52.05:428][121]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.11-10.52.05:431][121]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-10.52.05:431][121]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-10.52.05:445][121]LogAudioMixer: Display: Using Audio Device Динамики (2- SADES Locust Plus)
+[2021.07.11-10.52.05:446][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.11-10.52.05:446][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.11-10.52.05:446][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.11-10.52.05:446][121]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.11-10.52.05:446][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.11-10.52.05:446][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.11-10.52.05:456][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.11-10.52.05:456][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.11-10.52.05:456][121]LogInit: FAudioDevice initialized.
+[2021.07.11-10.52.05:456][121]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.07.11-10.52.05:465][121]LogLoad: Game class is 'GameModeBase'
+[2021.07.11-10.52.05:467][121]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.11-13.52.05
+[2021.07.11-10.52.05:468][121]LogWorld: Bringing up level for play took: 0.001890
+[2021.07.11-10.52.05:468][121]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.11-10.52.05:475][121]PIE: Server logged in
+[2021.07.11-10.52.05:475][121]PIE: Play in editor total start time 0,102 seconds.
+[2021.07.11-10.52.06:575][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:608][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:642][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:675][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:708][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:742][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:774][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:808][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:841][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:875][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:908][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:941][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.06:975][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:008][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:041][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:075][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:108][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:141][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:175][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:208][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:241][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:275][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:308][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:341][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:375][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:408][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:441][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:475][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:508][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:542][366]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:574][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:608][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:642][378]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:675][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:708][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:742][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:775][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:808][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:842][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:875][406]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.07:908][410]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:808][518]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:842][522]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:875][526]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:908][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:942][534]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.08:976][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:008][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:042][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:075][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:109][554]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:142][558]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:175][562]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:208][566]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:242][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:275][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:309][578]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:342][582]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:375][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:408][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:442][594]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:475][598]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:508][602]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:542][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:575][610]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:608][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:642][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:675][622]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:708][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:742][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:775][634]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:808][638]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:842][642]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2021.07.11-10.52.09:890][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.52.09:890][643]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.11-10.52.09:891][643]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.52.09:891][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.52.09:901][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.11-10.52.09:928][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.52.09:933][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.11-10.52.09:933][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.11-10.52.09:934][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.11-10.52.09:947][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.11-10.52.09:976][644]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.11-10.52.15:913][250]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.ALS_AnimBP
+[2021.07.11-10.52.15:918][250]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.07.11-10.52.16:043][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.11-10.52.16:044][250]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.07.11-10.52.16:144][250]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.07.11-10.52.17:211][250]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.11-10.52.17:256][250]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.11-10.52.17:321][251]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.11-10.52.29:260][633]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/BasePoses/ALS_N_Pose.ALS_N_Pose
+[2021.07.11-10.52.29:264][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.11-10.52.29:806][633]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.11-10.52.31:362][772]LogSlate: Window 'ALS_N_Pose' being destroyed
+[2021.07.11-10.52.31:366][772]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.52.31:366][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.52.31:402][772]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.52.31:402][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.52.51:659][144]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_F_Sweep.ALS_N_Look_F_Sweep
+[2021.07.11-10.52.51:661][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.11-10.52.51:945][144]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.11-10.52.54:495][382]LogSlate: Window 'ALS_N_Look_F_Sweep' being destroyed
+[2021.07.11-10.52.54:499][382]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.52.54:499][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.52.54:533][382]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.52.54:533][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.53.25:420][ 19]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-10.56.03:446][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.ALS_Character_BPI
+[2021.07.11-10.56.17:013][293]LogSlate: Window 'ALS_Character_BPI' being destroyed
+[2021.07.11-10.56.17:031][293]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.56.17:031][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.58.12:879][831]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.AnimMan'
+[2021.07.11-10.58.24:767][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Animation_BPI.ALS_Animation_BPI
+[2021.07.11-10.58.29:834][645]LogSlate: Window 'ALS_Animation_BPI' being destroyed
+[2021.07.11-10.58.29:869][645]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.58.29:869][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.58.32:850][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.ALS_Character_BPI
+[2021.07.11-10.58.37:060][455]LogSlate: Window 'ALS_Character_BPI' being destroyed
+[2021.07.11-10.58.37:099][455]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.11-10.58.37:099][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Get_CurrentStates.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Get_CurrentStates.K2Node_FunctionResult_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Get_EssentialValues.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Get_EssentialValues.K2Node_FunctionResult_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_MovementState.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_MovementAction.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_RotationMode.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_Gait.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_ViewMode.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI:BPI_Set_OverlayState.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Get_CurrentStates' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Get_EssentialValues' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_MovementState' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_MovementAction' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_RotationMode' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_Gait' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_ViewMode' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C:BPI_Set_OverlayState' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.SKEL_ALS_Character_BPI_C' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Get_CurrentStates' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Get_EssentialValues' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_MovementState' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_MovementAction' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_RotationMode' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_Gait' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_ViewMode' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:033][ 47]LogMetaData: Removing '/Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI_C:BPI_Set_OverlayState' ref from Metadata '/Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.PackageMetaData'
+[2021.07.11-10.58.59:107][ 47]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ALS_Character_BPI5E9BA7644303333AEA47C0BD431F65F1.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Interface/ALS_Character_BPI.uasset'
+[2021.07.11-10.58.59:209][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.07.11-10.58.59:244][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.07.11-10.58.59:266][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.11-10.59.00:477][ 47]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ALS_AnimBPB27A394E432502D42F6F2EB91DF26B2F.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.uasset'
+[2021.07.11-10.59.00:607][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.11-10.59.00:607][ 47]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interface/ALS_Character_BPI.ALS_Character_BPI
+[2021.07.11-10.59.00:607][ 47]LogContentValidation: Display: Validating AnimBlueprint /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.ALS_AnimBP
+[2021.07.11-10.59.06:102][701]LogContentBrowser: Attempting asset rename: ALS_Character_BPI -> ALS_Character_BPI
+[2021.07.11-10.59.12:066][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-10.59.22:765][628]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.11-10.59.24:438][822]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-10.59.26:766][ 90]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-10.59.26:903][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.11-10.59.27:773][174]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonCharacter5B27F80B4949A1A9B8774DB9B5C68582.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2021.07.11-10.59.27:790][174]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.11-10.59.27:790][174]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-10.59.39:107][518]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-11.01.07:434][784]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.01.07:567][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.07.11-11.01.29:743][358]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.01.29:875][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.07.11-11.01.59:414][779]LogSlate: Took 0.005486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.11-11.04.24:053][362]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.04.24:190][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.07.11-11.04.24:893][427]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonCharacter1F6D38884614A69D1B7F7E8EE63B85C8.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2021.07.11-11.04.24:906][427]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.11-11.04.24:906][427]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-11.04.27:192][696]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-11.06.27:129][664]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.06.27:265][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.07.11-11.06.28:068][741]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonCharacter236C6EA5437C1A363695268B0480384A.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2021.07.11-11.06.28:081][741]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.11-11.06.28:081][741]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-11.06.57:210][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.11-11.06.57:224][  9]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonExampleMap_Auto19C8276664629278919499583F7B067B0.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.07.11-11.06.57:225][  9]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.044
+[2021.07.11-11.06.57:225][  9]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2021.07.11-11.07.45:651][476]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-11.08.02:100][938]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2021.07.11-11.08.17:250][640]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.08.17:265][640]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "IsMoving" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set IsMoving
+[2021.07.11-11.08.17:266][640]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastVelocityRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastVelocityRotation
+[2021.07.11-11.08.17:266][640]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.08.17:266][640]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.08.17:267][640]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Calculate Acceleration . Please refresh node or break links to remove pin.
+[2021.07.11-11.08.17:267][640]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "CalculateAcceleration" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Calculate Acceleration
+[2021.07.11-11.08.17:384][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.07.11-11.09.12:466][886]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.09.12:481][886]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "IsMoving" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set IsMoving
+[2021.07.11-11.09.12:481][886]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastVelocityRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastVelocityRotation
+[2021.07.11-11.09.12:481][886]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.09.12:482][886]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.09.12:482][886]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Calculate Acceleration . Please refresh node or break links to remove pin.
+[2021.07.11-11.09.12:482][886]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "CalculateAcceleration" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Calculate Acceleration
+[2021.07.11-11.09.12:483][886]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousVelocity" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousVelocity
+[2021.07.11-11.09.12:486][886]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Previous Velocity  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.09.12:601][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.11-11.09.40:548][854]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.07.11-11.09.44:616][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.07.11-11.09.44:620][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.07.11-11.09.45:399][388]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.09.45:414][388]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "IsMoving" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set IsMoving
+[2021.07.11-11.09.45:415][388]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastVelocityRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastVelocityRotation
+[2021.07.11-11.09.45:415][388]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.09.45:415][388]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.09.45:416][388]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Calculate Acceleration . Please refresh node or break links to remove pin.
+[2021.07.11-11.09.45:416][388]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "CalculateAcceleration" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Calculate Acceleration
+[2021.07.11-11.09.45:541][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.11-11.09.48:108][688]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.09.48:123][688]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "IsMoving" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set IsMoving
+[2021.07.11-11.09.48:123][688]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastVelocityRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastVelocityRotation
+[2021.07.11-11.09.48:123][688]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.09.48:124][688]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.09.48:124][688]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Calculate Acceleration . Please refresh node or break links to remove pin.
+[2021.07.11-11.09.48:124][688]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "CalculateAcceleration" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Calculate Acceleration
+[2021.07.11-11.09.48:242][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.11-11.10.41:920][932]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.10.41:934][932]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastVelocityRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastVelocityRotation
+[2021.07.11-11.10.41:934][932]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.10.41:935][932]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.10.41:939][932]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Last Velocity Rotation  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.10.41:939][932]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Last Movement Input Rotation  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.10.41:939][932]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Previous Aim Yaw  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.10.42:054][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.11-11.11.48:329][224]LogSlate: Window 'Delete Variable' being destroyed
+[2021.07.11-11.11.50:094][411]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.11.50:109][411]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "PreviousAimYaw" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PreviousAimYaw
+[2021.07.11-11.11.50:110][411]LogBlueprint: Warning: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "LastMovementInputRotation" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set LastMovementInputRotation
+[2021.07.11-11.11.50:113][411]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Last Movement Input Rotation  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.11.50:113][411]LogBlueprint: Error: [AssetLog] C:\Users\KASPER\Documents\Unreal Projects\MyProject01\Content\Blueprints\Character\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Previous Aim Yaw  could not be found in '/Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2021.07.11-11.11.50:229][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.11-11.11.51:026][483]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonCharacterFDED8C0D43198DBF5C9599B5B2F4C4BF.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2021.07.11-11.11.51:039][483]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.11-11.11.51:039][483]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-11.11.54:890][922]LogSourceControl: Warning: 'UpdateStatus': only Connect operation allowed whithout a workspace
+[2021.07.11-11.13.26:254][262]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.07.11-11.13.26:398][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.11-11.13.27:378][356]LogSavePackage: Moving '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Saved/ThirdPersonCharacterFF35605D45067082CB5AB99CE195F1D5.tmp' to '../../../../../../Users/KASPER/Documents/Unreal Projects/MyProject01/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2021.07.11-11.13.27:390][356]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.11-11.13.27:391][356]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.11-11.13.28:996][544]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.11-11.13.29:000][544]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.11-11.13.29:003][544]LogPlayLevel: [PlayLevel] Compiling ALS_AnimBP before play...
+[2021.07.11-11.13.29:605][544]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	ALS_AnimBP_C /Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ALS_AnimBP_C_250
+	Function /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.ALS_AnimBP_C:BlueprintInitializeAnimation:0000
+[2021.07.11-11.13.30:793][544]LogWindows: Error: === Critical error: ===
+[2021.07.11-11.13.30:793][544]LogWindows: Error: 
+[2021.07.11-11.13.30:793][544]LogWindows: Error: Fatal error!
+[2021.07.11-11.13.30:793][544]LogWindows: Error: 
+[2021.07.11-11.13.30:793][544]LogWindows: Error: Unhandled Exception: EXCEPTION_STACK_OVERFLOW
+[2021.07.11-11.13.30:793][544]LogWindows: Error: 
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cf6bf6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d319f5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d31204 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d307a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d30447 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d28ebc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d30324 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20d32c08 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbcef76143 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbb4472dbd UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd086d197 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd1bcf020 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:793][544]LogWindows: Error: [Callstack] 0x00007ffbd1bf7ba7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcef7615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb4472dbd UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd086d197 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bcf020 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bf7ba7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcef7615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb4472dbd UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd086d197 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bcf020 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bf7ba7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcef7615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb4472dbd UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd086d197 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bcf020 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bf7ba7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcef7615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb4472dbd UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd086d197 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bcf020 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd1bf7ba7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcef7615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbcf3ed34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cdbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cf06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20a32604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffc20cc0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19db2af UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbd19d5b21 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: [Callstack] 0x00007ffbb45fc969 UE4Editor-Persona.dll!UnknownFunction []
+[2021.07.11-11.13.30:794][544]LogWindows: Error: 
+[2021.07.11-11.13.30:807][544]LogExit: Executing StaticShutdownAfterError
+[2021.07.11-11.13.30:811][544]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.07.11-11.13.30:811][544]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.07.11-11.13.30:814][544]Log file closed, 07/11/21 14:13:30
