@@ -32,6 +32,6 @@ git status
 git add <file>
 ## закомитить изменения 
 git commit -m ‘тут в кратцы написать что делал’
-## Отправить на ithub 
+## Отправить на Github 
 git push -u origin main
 
